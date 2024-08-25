@@ -1,12 +1,12 @@
 .add-task-button {
-    background-color: chartreuse;
+    background-color: #5ece5e;
     height: 40px;
     padding: 0 10px;
     border-radius: 5px;
     border: none;
     width: 100%;
     font-size: 16px;
-    color: #444;
+    color: #000000;
     font-weight: bold;
     cursor: pointer;
     opacity: 0.8;
